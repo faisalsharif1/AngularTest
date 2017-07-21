@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
-import { testComponent } from './test.component';
+import { menuComponent } from './test.component';
 
 @Component({
   selector: 'my-app',
   template: 
 `
     <h1>Name Of The Developer Is {{name}}</h1>
-    <test-app></test-app>
+    <menu-item></menu-item>
 `
 })
 

@@ -1,13 +1,13 @@
 ﻿import { Component } from '@angular/core';
 
 @Component({
-    selector: 'test-app',
+    selector: 'menu-item',
     template:
     `
     <h2>Name Of The Developer Is {{name}}</h2>
 `
 })
 
-export class testComponent {
+export class menuComponent {
     name = 'Shah Fahad';
 }
