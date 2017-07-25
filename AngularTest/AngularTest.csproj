@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="src\index_sub_1.html" />
     <Content Include="src\tsconfig.json" />
     <Content Include="package.json" />
     <None Include="Web.Debug.config">
